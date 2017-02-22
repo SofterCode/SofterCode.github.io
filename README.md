@@ -1,4 +1,4 @@
 # softercode.github.io
 
-check out my ITBA Projects Repository
-github.com/SofterCode/ITBAProjects
+check out my 
+[ITBA Projects Repository](https://github.com/SofterCode/ITBAProjects)
